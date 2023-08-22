@@ -16690,3 +16690,6 @@ frontend/.next/static/chunks/fallback/react-refresh.js
 frontend/.next/static/chunks/fallback/webpack.js
 frontend/.next/static/chunks/fallback/pages/_app.js
 frontend/.next/static/chunks/fallback/pages/_error.js
+frontend/.next/cache/webpack/client-development/11.pack.gz
+frontend/.next/cache/webpack/client-development/12.pack.gz
+frontend/.next/cache/webpack/client-development-fallback/index.pack.gz
