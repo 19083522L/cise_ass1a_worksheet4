@@ -16693,3 +16693,15 @@ frontend/.next/static/chunks/fallback/pages/_error.js
 frontend/.next/cache/webpack/client-development/11.pack.gz
 frontend/.next/cache/webpack/client-development/12.pack.gz
 frontend/.next/cache/webpack/client-development-fallback/index.pack.gz
+frontend/.next/server/pages/articles.js
+frontend/.next/server/pages/articles/new.js
+frontend/.next/static/chunks/pages/articles.js
+frontend/.next/static/chunks/pages/articles/new.js
+frontend/.next/static/webpack/0cb4042820235d4a.webpack.hot-update.json
+frontend/.next/static/webpack/6b6521f8cb53d5c5.webpack.hot-update.json
+frontend/.next/static/webpack/91d1b54eddd5c1b9.webpack.hot-update.json
+frontend/.next/static/webpack/app-pages-internals.6b6521f8cb53d5c5.hot-update.js
+frontend/.next/static/webpack/webpack.0cb4042820235d4a.hot-update.js
+frontend/.next/static/webpack/webpack.6b6521f8cb53d5c5.hot-update.js
+frontend/.next/static/webpack/webpack.91d1b54eddd5c1b9.hot-update.js
+frontend/.next/static/webpack/app/layout.6b6521f8cb53d5c5.hot-update.js
